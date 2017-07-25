@@ -1,0 +1,2 @@
+Add validation to the testing lecture
+Move the regularization (and cross validation) before the noise lecture.
