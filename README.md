@@ -31,9 +31,31 @@ git rebase origin/master
 
 #### Exercises
 
+* Do the code for the comprehension questions in practicals/01
+* Do exploratory data analysis on the [data/classics.csv](https://think.cs.vt.edu/corgis/python/classics/classics.html) dataset (write the code in a separate ipython notebook)
+  - How would I write a popular book?
+  - What are the characteristics of polarizing books?
+  - When was the best time to be a writer?
+  - When was the best time and place to be alive as an avid reader?
+  - When should I publish? Does it depend on anything?
+
 #### Supplementary material
 
+Highly recommended, for more information on seaborn (aka visualizing data), do check out my series [here](https://www.youtube.com/watch?v=fWuPIGVPo7o&list=PLgJhDSE2ZLxYlhQx0UfVlnF1F7OWF-9rp)
+
+For tutorials on pandas, I would suggest using [10 minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+
 #### Supplementary Exercises
+
+* Do exploratory data analysis on the [data/broadway.csv](https://think.cs.vt.edu/corgis/python/broadway/broadway.html) dataset
+  - Have the good times of broadway come to a close?
+  - If I want to make money I should use which theater?
+  - What is the most underrated broadway show?
+
+* Do exploratory data analysis on the [data/airlines.csv](https://think.cs.vt.edu/corgis/python/airlines/airlines.html) dataset
+  - Which airport should I get lounge access to?
+  - I live in Chicago, which should be my go to airline?
+  - My flight has been delayed 15 minutes, how much longer should I expect to wait?
 
 # Tentative Schedule
 
