@@ -57,6 +57,33 @@ For tutorials on pandas, I would suggest using [10 minutes to pandas](http://pan
   - I live in Chicago, which should be my go to airline?
   - My flight has been delayed 15 minutes, how much longer should I expect to wait?
 
+## Lesson 2
+
+#### Exercises
+
+* Do the code for the comprehension questions in foundations/06
+* Use the plug in principle to answer the following questions on the [data/classics.csv](https://think.cs.vt.edu/corgis/python/classics/classics.html) dataset (write the code in a separate ipython notebook)
+  - Estimate the chance of writing a top book for male and female authors
+  - What is the chance that your estimate from above is reversed (that males have a higher chance than females or vice versa)
+  - Estimate the number of downloads future classics will have
+  - Estimate the readability of future classics
+  - Estimate the percent of new classics that will be in english
+  - Which of your estimates above is the most robust
+
+#### Supplementary material
+
+Highly recommended, for more information on random variables and stats, do check out my series [here](https://www.youtube.com/watch?v=uWLMtCtsHmc&list=PLgJhDSE2ZLxaaM1W45NB8dFSQ-frJJoBq)
+
+#### Supplementary Exercises
+
+* Use the plug in principle to answer the following questions on the [data/broadway.csv](https://think.cs.vt.edu/corgis/python/broadway/broadway.html) dataset
+  - Make a random variable for the money a broadway show will make. It should include: theater, number of attendees, number of shows and the estimates for the these should come from the data
+  - Using the above r.v. estimate the mean, median, 75 percentile, STD, and distribution of the money a broadway play will make
+
+* Use the plug in principle to answer the following questions on the [data/airlines.csv](https://think.cs.vt.edu/corgis/python/airlines/airlines.html) dataset
+  - Which airline will give me the fewest delays in the future
+  - How certain are you of your estimate
+
 # Tentative Schedule
 
 1. Introduction to Data
