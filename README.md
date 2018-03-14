@@ -84,6 +84,37 @@ Highly recommended, for more information on random variables and stats, do check
   - Which airline will give me the fewest delays in the future
   - How certain are you of your estimate
 
+## Lesson 3
+
+#### Exercises
+
+* Do the code for the comprehension questions in practicals/04
+* Answer the following questions about [data/classics.csv](https://think.cs.vt.edu/corgis/python/classics/classics.html) (write the code in a separate ipython notebook)
+  - Fully define 3 good machine learning problems on this dataset
+  - Give an example of a poor machine learning problem on this dataset
+  - Give me a confidence interval for the number of downloads future classics will have
+  - Give me a confidence interval for the percent of new classics that will be in english
+  - Check the accuracy of different (90%, 91%, ... 95%) confidence intervals using the sample. Which confidence interval is the closest to a 95% confidence interval?
+
+#### Supplementary material
+
+Highly recommended, for more information on machine learning, do check out my series [here](https://www.youtube.com/watch?v=52zXNBaUKMM&list=PLgJhDSE2ZLxb33q-x5592LCiVRsHDxVf3)
+
+I would suggest checking out the first three videos:
+1. Introduction
+2. Datasets
+3. Supervised Learning
+
+#### Supplementary Exercises
+
+* Answer the following questions about the [data/broadway.csv](https://think.cs.vt.edu/corgis/python/broadway/broadway.html) dataset
+  - Make confidence intervals about how much money a show will make. Make them across: theater, number of attendees, and number of shows
+  - Make confidence intervals for the mean, median, 75 percentile, and STD, of the money a broadway play will make. Which is the tightest confidence interval
+
+* Use the plug in principle to answer the following questions on the [data/airlines.csv](https://think.cs.vt.edu/corgis/python/airlines/airlines.html) dataset
+  - Using your previous visual analysis, make a hypothesis about what the delays will be on particular airlines
+  - How correct is your above hypothesis? Is it the optimal hypothesis? How can you tell?
+
 # Tentative Schedule
 
 1. Introduction to Data
