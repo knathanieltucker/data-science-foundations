@@ -115,6 +115,38 @@ I would suggest checking out the first three videos:
   - Using your previous visual analysis, make a hypothesis about what the delays will be on particular airlines
   - How correct is your above hypothesis? Is it the optimal hypothesis? How can you tell?
 
+
+## Lesson 4
+
+#### Exercises
+
+* Answer the following questions about [data/classics.csv](https://think.cs.vt.edu/corgis/python/classics/classics.html) (write the code in a separate ipython notebook)
+  - Transform any qualitative variables in the classics into Dummy Variables and use them for visualizations
+  - Clean the classics dataset with the goal of prediction of popularity
+  - Drop dummies, impute/drop/interact NaNs and do standardization
+  - Eliminate poor features from the set of all features
+
+#### Supplementary material
+
+For more information on categorical encodings, do check out my video [here](https://www.youtube.com/watch?v=WRxHfnl-Pcs&index=2&list=PLgJhDSE2ZLxblV7ywtiK3xrEZ-vWm11Xn)
+
+Highly recommended, for more information on machine learning, do check out my series [here](https://www.youtube.com/watch?v=52zXNBaUKMM&list=PLgJhDSE2ZLxb33q-x5592LCiVRsHDxVf3)
+
+I would suggest checking out the following videos:
+1. Supervised Learning Estimators
+2. Feature Selection
+3. Feature Transformations
+4. Preprocessing
+
+#### Supplementary Exercises
+
+* Answer the following questions about the [data/broadway.csv](https://think.cs.vt.edu/corgis/python/broadway/broadway.html) dataset
+  - Fully clean and preprocess this dataset for prediction of broadway musical earnings
+
+* Use the plug in principle to answer the following questions on the [data/airlines.csv](https://think.cs.vt.edu/corgis/python/airlines/airlines.html) dataset
+  - Fully clean and preprocess this dataset for prediction of airplane delays
+
+
 # Tentative Schedule
 
 1. Introduction to Data
