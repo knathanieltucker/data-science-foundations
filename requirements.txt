@@ -2,7 +2,7 @@ alabaster==0.7.11
 appnope==0.1.0
 Babel==2.6.0
 backcall==0.1.0
-bleach==3.1.1
+bleach==3.1.4
 certifi==2018.8.24
 chardet==3.0.4
 cycler==0.10.0
